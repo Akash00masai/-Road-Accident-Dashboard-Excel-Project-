@@ -12,7 +12,7 @@ The goal is to **support policymakers, traffic authorities, and researchers** in
 
 ## 🖥️ Dashboard Preview
 
-![Road Accident Dashboard](Road%20Accident%20Data%20Dashboard.png)
+![Road Accident Dashboard](Dashboard.png)
 
 ---
 
